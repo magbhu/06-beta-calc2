@@ -1,3 +1,4 @@
+pip
 streamlit>=1.30.0
 sklearn.linear_model
 pandas>=2.0.0
