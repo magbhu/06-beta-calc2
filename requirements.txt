@@ -1,6 +1,5 @@
-pip
 streamlit>=1.30.0
-sklearn.linear_model
+sklearn
 pandas>=2.0.0
 plotly>=5.19.0
 fpdf>=1.7.2
